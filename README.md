@@ -1,5 +1,5 @@
 # MakersFriend
-This is the source repo for the "Maker's Mill" 3D-Printer-Projekt on
+This is the source repo for the "Maker's Friend" 3D-Printer-Projekt on
 
 https://wiki.opensourceecology.de/Maker%27s_Friend
 
